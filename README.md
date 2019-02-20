@@ -8,7 +8,7 @@ The easiest way to get start would be to clone this repo then from the cloned ro
 ```
 note: you may need to allow execution on this script (chmod +x ./makeLocalImages.sh)
 
-This command will build the base, publisher and author image locally and will prompt you to supply your AEM jar and license file.  Then it will build out the dispatcher image for you.
+This command will build the base, publisher and author image locally and will  prompt you to supply your AEM jar and license file.  Then it will build out the dispatcher image for you.
 
 After that is done running the next step would be to change to the composedev-tar directory and run the start-containers.sh script to bring up all three containers for you.
 
